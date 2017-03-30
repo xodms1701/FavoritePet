@@ -58,7 +58,6 @@
         android:id="@+id/imgv_pet"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:src="@drawable/cat"
         android:visibility="invisible"/>
 
 </LinearLayout>
